@@ -1,0 +1,2 @@
+In an ever-evolving world, the pursuit of happiness is a fundamental aspiration for individuals and nations alike. The World Happiness Index, a comprehensive measure of well-being and life satisfaction, offers a unique lens through which we can analyze and understand the factors that contribute to happiness on a global scale. 
+Leveraging the power of Python, this project delves into the exploration and analysis of the World Happiness Index dataset, aiming to uncover patterns, trends, and insights that shape the happiness landscape across countries and over time.
